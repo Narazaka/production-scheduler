@@ -1,0 +1,16 @@
+{
+  "name": "comiclib",
+  "description": "Comic Library",
+  "dependencies": {
+    "mithril": "~0.2.1",
+    "dhtmlx": "~4.5.1"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "npm-debug.log",
+    "coverage"
+  ],
+  "license": "MIT"
+}

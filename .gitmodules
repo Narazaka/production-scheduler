@@ -1,0 +1,4 @@
+[submodule "doc"]
+	path = doc
+	url = https://github.com/Narazaka/shiori_transaction.js.git
+	branch = gh-pages
